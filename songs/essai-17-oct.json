@@ -21,14 +21,6 @@
    "e": 16
   },
   {
-   "id": "z2",
-   "line": "l-nord-1",
-   "kind": "PLAY",
-   "slot": 1,
-   "s": 16,
-   "e": 84
-  },
-  {
    "id": "z3",
    "line": "l-drum-1",
    "kind": "REC",
@@ -100,6 +92,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T21:20:57.916Z",
+ "modifiedAt": "2026-10-17T21:40:55.289Z",
  "appliedAt": null
 }
