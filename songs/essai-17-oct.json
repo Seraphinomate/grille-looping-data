@@ -99,6 +99,14 @@
    "slot": 2,
    "s": 32,
    "e": 48
+  },
+  {
+   "id": "odw7hzhaz1g",
+   "line": "l-nord-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 48,
+   "e": 64
   }
  ],
  "texts": [
@@ -116,6 +124,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:32:02.854Z",
+ "modifiedAt": "2026-10-17T22:32:16.356Z",
  "appliedAt": null
 }
