@@ -83,6 +83,14 @@
    "slot": 1,
    "s": 0,
    "e": 8
+  },
+  {
+   "id": "86etv46lbnm",
+   "line": "l-voix-3",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 8,
+   "e": 16
   }
  ],
  "texts": [
@@ -100,6 +108,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T21:18:32.737Z",
+ "modifiedAt": "2026-10-17T21:18:39.298Z",
  "appliedAt": null
 }
