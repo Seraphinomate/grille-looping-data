@@ -91,6 +91,14 @@
    "slot": 1,
    "s": 32,
    "e": 40
+  },
+  {
+   "id": "70ae4byypgm",
+   "line": "l-nord-1",
+   "kind": "REC",
+   "slot": 2,
+   "s": 32,
+   "e": 48
   }
  ],
  "texts": [
@@ -108,6 +116,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:31:08.785Z",
+ "modifiedAt": "2026-10-17T22:32:02.854Z",
  "appliedAt": null
 }
