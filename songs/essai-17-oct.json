@@ -83,6 +83,14 @@
    "slot": 0,
    "s": 32,
    "e": 41
+  },
+  {
+   "id": "932gg0w0jqp",
+   "line": "l-drum-2",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 32,
+   "e": 40
   }
  ],
  "texts": [
@@ -100,6 +108,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:31:04.152Z",
+ "modifiedAt": "2026-10-17T22:31:08.785Z",
  "appliedAt": null
 }
