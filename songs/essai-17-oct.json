@@ -83,6 +83,38 @@
    "slot": 1,
    "s": 16,
    "e": 32
+  },
+  {
+   "id": "o8g5by7v3n5",
+   "line": "l-voix-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 49,
+   "e": 50
+  },
+  {
+   "id": "s5510gcf4pr",
+   "line": "l-voix-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 45,
+   "e": 46
+  },
+  {
+   "id": "uo9aasil575",
+   "line": "l-voix-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 42,
+   "e": 43
+  },
+  {
+   "id": "e18858625ec",
+   "line": "l-voix-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 39,
+   "e": 40
   }
  ],
  "texts": [
@@ -100,6 +132,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:24:15.848Z",
+ "modifiedAt": "2026-10-17T22:28:30.228Z",
  "appliedAt": null
 }
