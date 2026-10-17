@@ -1,0 +1,125 @@
+{
+ "name": "Looping JO - REFERENCE V1",
+ "lines": [
+  {
+   "id": "l-section",
+   "name": "Section",
+   "type": "section",
+   "source": ""
+  },
+  {
+   "id": "l-voix-1",
+   "name": "Voix 1",
+   "type": "loop",
+   "source": "Micro"
+  },
+  {
+   "id": "l-voix-2",
+   "name": "Voix 2",
+   "type": "loop",
+   "source": "Micro"
+  },
+  {
+   "id": "l-voix-3",
+   "name": "Voix 3",
+   "type": "loop",
+   "source": "Micro"
+  },
+  {
+   "id": "l-voix-4",
+   "name": "Voix 4",
+   "type": "loop",
+   "source": "Micro"
+  },
+  {
+   "id": "l-nord-1",
+   "name": "Nord 1",
+   "type": "loop",
+   "source": "Nord"
+  },
+  {
+   "id": "l-nord-2",
+   "name": "Nord 2",
+   "type": "loop",
+   "source": "Nord"
+  },
+  {
+   "id": "l-o1",
+   "name": "O1",
+   "type": "loop",
+   "source": "Osmose"
+  },
+  {
+   "id": "l-drum-1",
+   "name": "Drum 1",
+   "type": "loop",
+   "source": "LPD8"
+  },
+  {
+   "id": "l-drum-2",
+   "name": "Drum 2",
+   "type": "loop",
+   "source": "LPD8"
+  },
+  {
+   "id": "l-drum-3",
+   "name": "Drum 3",
+   "type": "loop",
+   "source": "LPD8"
+  },
+  {
+   "id": "l-meld-1",
+   "name": "Meld 1",
+   "type": "loop",
+   "source": "Osmose"
+  },
+  {
+   "id": "l-meld-2",
+   "name": "Meld 2",
+   "type": "loop",
+   "source": "Osmose"
+  },
+  {
+   "id": "l-basse",
+   "name": "Basse",
+   "type": "loop",
+   "source": "Osmose"
+  },
+  {
+   "id": "l-granulator",
+   "name": "Granulator",
+   "type": "loop",
+   "source": ""
+  },
+  {
+   "id": "l-nord-live",
+   "name": "Nord live",
+   "type": "live",
+   "source": ""
+  },
+  {
+   "id": "l-voix-live",
+   "name": "Voix live",
+   "type": "live",
+   "source": ""
+  },
+  {
+   "id": "l-osmose-live",
+   "name": "Osmose live",
+   "type": "live",
+   "source": ""
+  },
+  {
+   "id": "l-guide",
+   "name": "GUIDE",
+   "type": "text",
+   "source": ""
+  },
+  {
+   "id": "l-notes",
+   "name": "Notes",
+   "type": "text",
+   "source": ""
+  }
+ ]
+}
