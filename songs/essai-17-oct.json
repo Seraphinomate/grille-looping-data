@@ -115,6 +115,14 @@
    "slot": 1,
    "s": 64,
    "e": 84
+  },
+  {
+   "id": "n41gk7vgyx0",
+   "line": "l-nord-1",
+   "kind": "PLAY",
+   "slot": 2,
+   "s": 64,
+   "e": 80
   }
  ],
  "texts": [
@@ -132,6 +140,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:32:50.907Z",
+ "modifiedAt": "2026-10-17T22:33:01.764Z",
  "appliedAt": null
 }
