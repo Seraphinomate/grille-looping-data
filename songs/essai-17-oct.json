@@ -45,14 +45,6 @@
    "e": 32
   },
   {
-   "id": "z6",
-   "line": "l-drum-2",
-   "kind": "PLAY",
-   "slot": 2,
-   "s": 32,
-   "e": 84
-  },
-  {
    "id": "z7",
    "line": "l-basse",
    "kind": "REC",
@@ -108,6 +100,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:30:22.867Z",
+ "modifiedAt": "2026-10-17T22:31:04.152Z",
  "appliedAt": null
 }
