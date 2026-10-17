@@ -61,28 +61,12 @@
    "e": 84
   },
   {
-   "id": "gryr920mtfc",
-   "line": "l-voix-live",
-   "kind": "LIVE",
-   "slot": 0,
-   "s": 16,
-   "e": 24
-  },
-  {
    "id": "snsqd5gv60j",
    "line": "l-nord-1",
    "kind": "PLAY",
    "slot": 1,
    "s": 16,
    "e": 32
-  },
-  {
-   "id": "e642obbbtfh",
-   "line": "l-voix-live",
-   "kind": "LIVE",
-   "slot": 0,
-   "s": 32,
-   "e": 41
   },
   {
    "id": "70ae4byypgm",
@@ -140,6 +124,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:33:01.764Z",
+ "modifiedAt": "2026-10-17T22:33:15.372Z",
  "appliedAt": null
 }
