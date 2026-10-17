@@ -77,22 +77,6 @@
    "e": 84
   },
   {
-   "id": "ey3l0x4z6lc",
-   "line": "l-voix-3",
-   "kind": "REC",
-   "slot": 1,
-   "s": 0,
-   "e": 8
-  },
-  {
-   "id": "86etv46lbnm",
-   "line": "l-voix-3",
-   "kind": "PLAY",
-   "slot": 1,
-   "s": 8,
-   "e": 16
-  },
-  {
    "id": "gryr920mtfc",
    "line": "l-voix-live",
    "kind": "LIVE",
@@ -116,6 +100,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T21:19:02.328Z",
+ "modifiedAt": "2026-10-17T21:19:10.965Z",
  "appliedAt": null
 }
