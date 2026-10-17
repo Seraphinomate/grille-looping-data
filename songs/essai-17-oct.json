@@ -48,7 +48,7 @@
    "id": "z6",
    "line": "l-drum-2",
    "kind": "PLAY",
-   "slot": 3,
+   "slot": 1,
    "s": 32,
    "e": 84
   },
@@ -100,6 +100,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:24:00.286Z",
+ "modifiedAt": "2026-10-17T22:24:03.521Z",
  "appliedAt": null
 }
