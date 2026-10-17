@@ -1,0 +1,97 @@
+{
+ "name": "Essai 17 oct.",
+ "project": "ref-v1",
+ "tempo": 110,
+ "startBar": 320,
+ "nBars": 21,
+ "sigs": [
+  {
+   "bar": 0,
+   "num": 4,
+   "den": 4
+  }
+ ],
+ "zones": [
+  {
+   "id": "z1",
+   "line": "l-nord-1",
+   "kind": "REC",
+   "slot": 1,
+   "s": 0,
+   "e": 16
+  },
+  {
+   "id": "z2",
+   "line": "l-nord-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 16,
+   "e": 84
+  },
+  {
+   "id": "z3",
+   "line": "l-drum-1",
+   "kind": "REC",
+   "slot": 1,
+   "s": 16,
+   "e": 24
+  },
+  {
+   "id": "z4",
+   "line": "l-drum-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 24,
+   "e": 84
+  },
+  {
+   "id": "z5",
+   "line": "l-drum-2",
+   "kind": "REC",
+   "slot": 1,
+   "s": 24,
+   "e": 32
+  },
+  {
+   "id": "z6",
+   "line": "l-drum-2",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 32,
+   "e": 84
+  },
+  {
+   "id": "z7",
+   "line": "l-basse",
+   "kind": "REC",
+   "slot": 1,
+   "s": 32,
+   "e": 48
+  },
+  {
+   "id": "z8",
+   "line": "l-basse",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 48,
+   "e": 84
+  }
+ ],
+ "texts": [
+  {
+   "id": "t1",
+   "line": "l-section",
+   "beat": 0,
+   "text": "Prises"
+  },
+  {
+   "id": "t2",
+   "line": "l-section",
+   "beat": 48,
+   "text": "Tout tourne"
+  }
+ ],
+ "createdAt": "2026-10-17T20:00:00Z",
+ "modifiedAt": "2026-10-17T21:17:17.489Z",
+ "appliedAt": null
+}
