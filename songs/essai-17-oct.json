@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 320,
- "nBars": 22,
+ "nBars": 21,
  "sigs": [
   {
    "bar": 0,
@@ -107,14 +107,6 @@
    "slot": 2,
    "s": 64,
    "e": 80
-  },
-  {
-   "id": "bcld83nwm10",
-   "line": "l-drum-1",
-   "kind": "PLAY",
-   "slot": 1,
-   "s": 80,
-   "e": 87
   }
  ],
  "texts": [
@@ -132,6 +124,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:34:18.372Z",
+ "modifiedAt": "2026-10-17T22:34:21.997Z",
  "appliedAt": null
 }
