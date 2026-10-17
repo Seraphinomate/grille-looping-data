@@ -75,6 +75,14 @@
    "slot": 1,
    "s": 48,
    "e": 84
+  },
+  {
+   "id": "ey3l0x4z6lc",
+   "line": "l-voix-3",
+   "kind": "REC",
+   "slot": 1,
+   "s": 0,
+   "e": 8
   }
  ],
  "texts": [
@@ -92,6 +100,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T21:17:17.489Z",
+ "modifiedAt": "2026-10-17T21:18:32.737Z",
  "appliedAt": null
 }
