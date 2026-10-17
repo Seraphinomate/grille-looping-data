@@ -85,14 +85,6 @@
    "e": 41
   },
   {
-   "id": "932gg0w0jqp",
-   "line": "l-drum-2",
-   "kind": "PLAY",
-   "slot": 1,
-   "s": 32,
-   "e": 40
-  },
-  {
    "id": "70ae4byypgm",
    "line": "l-nord-1",
    "kind": "REC",
@@ -107,6 +99,14 @@
    "slot": 1,
    "s": 48,
    "e": 64
+  },
+  {
+   "id": "re3nvroogpz",
+   "line": "l-drum-2",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 32,
+   "e": 48
   }
  ],
  "texts": [
@@ -124,6 +124,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-17T22:32:16.356Z",
+ "modifiedAt": "2026-10-17T22:32:38.183Z",
  "appliedAt": null
 }
