@@ -49,8 +49,8 @@
    "line": "l-basse",
    "kind": "REC",
    "slot": 1,
-   "s": 64,
-   "e": 80
+   "s": 32,
+   "e": 48
   },
   {
    "id": "z8",
@@ -124,6 +124,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:18:59.509Z",
+ "modifiedAt": "2026-10-18T07:19:03.269Z",
  "appliedAt": null
 }
