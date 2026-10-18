@@ -50,7 +50,7 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 64,
-   "e": 96
+   "e": 160
   },
   {
    "id": "79zn3gtj80e",
@@ -63,7 +63,7 @@
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T14:37:09.620Z",
+ "modifiedAt": "2026-10-18T14:37:12.812Z",
  "appliedAt": null,
  "parts": []
 }
