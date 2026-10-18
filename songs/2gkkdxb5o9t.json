@@ -66,11 +66,11 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 24,
-   "e": 32
+   "e": 39
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T10:06:41.148Z",
+ "modifiedAt": "2026-10-18T10:06:44.409Z",
  "appliedAt": null
 }
