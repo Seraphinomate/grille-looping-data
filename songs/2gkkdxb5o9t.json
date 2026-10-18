@@ -103,7 +103,13 @@
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:09:05.713Z",
+ "modifiedAt": "2026-10-18T18:10:25.414Z",
  "appliedAt": null,
- "parts": []
+ "parts": [
+  {
+   "id": "cno1wsv43wm",
+   "beat": 0,
+   "name": "Couplet"
+  }
+ ]
 }
