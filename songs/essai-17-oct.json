@@ -145,8 +145,8 @@
    "line": "l-basse",
    "kind": "PLAY",
    "slot": 1,
-   "s": 112,
-   "e": 144
+   "s": 96,
+   "e": 128
   }
  ],
  "texts": [
@@ -164,6 +164,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:02:35.939Z",
+ "modifiedAt": "2026-10-18T08:02:42.051Z",
  "appliedAt": null
 }
