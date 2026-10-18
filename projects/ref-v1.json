@@ -29,7 +29,7 @@
   {
    "id": "cqpeeoopiqr",
    "name": "Voix 4",
-   "type": "live",
+   "type": "loop",
    "io": "audio",
    "source": ""
   },
