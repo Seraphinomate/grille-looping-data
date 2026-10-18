@@ -130,7 +130,7 @@
    "kind": "LIVE",
    "slot": 0,
    "s": 112,
-   "e": 144
+   "e": 128
   },
   {
    "id": "yeuibb2dp23",
@@ -156,6 +156,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:37:29.449Z",
+ "modifiedAt": "2026-10-18T07:37:54.569Z",
  "appliedAt": null
 }
