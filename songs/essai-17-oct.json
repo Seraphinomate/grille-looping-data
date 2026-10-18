@@ -58,7 +58,7 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 48,
-   "e": 64
+   "e": 60
   },
   {
    "id": "snsqd5gv60j",
@@ -116,6 +116,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:20:27.876Z",
+ "modifiedAt": "2026-10-18T07:20:30.537Z",
  "appliedAt": null
 }
