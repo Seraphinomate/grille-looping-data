@@ -115,11 +115,19 @@
    "slot": 2,
    "s": 160,
    "e": 176
+  },
+  {
+   "id": "b4nosz5zjh4",
+   "line": "l-basse",
+   "kind": "PLAY",
+   "slot": 2,
+   "s": 176,
+   "e": 192
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:13:09.419Z",
+ "modifiedAt": "2026-10-18T18:13:52.216Z",
  "appliedAt": null,
  "parts": [
   {
