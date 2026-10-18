@@ -35,10 +35,18 @@
    "slot": 1,
    "s": 16,
    "e": 24
+  },
+  {
+   "id": "rz5td7tszlt",
+   "line": "l-voix-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 16,
+   "e": 24
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T10:00:52.847Z",
+ "modifiedAt": "2026-10-18T10:03:33.185Z",
  "appliedAt": null
 }
