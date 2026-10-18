@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 376,
- "nBars": 88,
+ "nBars": 96,
  "sigs": [
   {
    "bar": 0,
@@ -157,7 +157,7 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 288,
-   "e": 352
+   "e": 384
   },
   {
    "id": "hm1z973rl1o",
@@ -191,7 +191,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:50:42.192Z",
+ "modifiedAt": "2026-10-18T18:50:53.432Z",
  "appliedAt": null,
  "parts": [
   {
