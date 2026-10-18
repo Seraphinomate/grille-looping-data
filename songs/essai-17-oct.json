@@ -82,7 +82,7 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 96,
-   "e": 112
+   "e": 128
   },
   {
    "id": "re3nvroogpz",
@@ -106,7 +106,7 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 64,
-   "e": 112
+   "e": 128
   },
   {
    "id": "t1n60ctuvmp",
@@ -122,7 +122,7 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 96,
-   "e": 112
+   "e": 128
   },
   {
    "id": "ge4tweppwb8",
@@ -148,6 +148,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:24:04.436Z",
+ "modifiedAt": "2026-10-18T07:24:18.361Z",
  "appliedAt": null
 }
