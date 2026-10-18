@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 376,
- "nBars": 16,
+ "nBars": 17,
  "sigs": [
   {
    "bar": 0,
@@ -25,8 +25,8 @@
    "line": "l-drum-1",
    "kind": "REC",
    "slot": 1,
-   "s": 8,
-   "e": 16
+   "s": 32,
+   "e": 40
   },
   {
    "id": "s0d6f2ggb0g",
@@ -49,8 +49,8 @@
    "line": "l-drum-1",
    "kind": "PLAY",
    "slot": 1,
-   "s": 16,
-   "e": 39
+   "s": 44,
+   "e": 67
   },
   {
    "id": "79zn3gtj80e",
@@ -71,7 +71,7 @@
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T14:35:31.372Z",
+ "modifiedAt": "2026-10-18T14:36:03.550Z",
  "appliedAt": null,
  "parts": []
 }
