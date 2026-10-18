@@ -67,10 +67,18 @@
    "slot": 1,
    "s": 24,
    "e": 39
+  },
+  {
+   "id": "sy7h1d2sh7n",
+   "line": "l-drum-2",
+   "kind": "REC",
+   "slot": 2,
+   "s": 12,
+   "e": 16
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T10:06:44.409Z",
+ "modifiedAt": "2026-10-18T10:07:04.633Z",
  "appliedAt": null
 }
