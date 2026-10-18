@@ -2,16 +2,16 @@
  "name": "Looping JO - REFERENCE V1",
  "lines": [
   {
+   "id": "l-section",
+   "name": "Voix live",
+   "type": "live",
+   "source": ""
+  },
+  {
    "id": "iwi7vqsex27",
    "name": "Osmose live",
    "type": "live",
    "io": "audio",
-   "source": ""
-  },
-  {
-   "id": "l-section",
-   "name": "Voix live",
-   "type": "live",
    "source": ""
   },
   {
