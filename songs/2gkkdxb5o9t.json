@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 376,
- "nBars": 26,
+ "nBars": 32,
  "sigs": [
   {
    "bar": 0,
@@ -34,7 +34,7 @@
    "kind": "REC",
    "slot": 1,
    "s": 96,
-   "e": 104
+   "e": 128
   },
   {
    "id": "9p5cew6i4bo",
@@ -63,7 +63,7 @@
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T14:36:48.215Z",
+ "modifiedAt": "2026-10-18T14:36:53.845Z",
  "appliedAt": null,
  "parts": []
 }
