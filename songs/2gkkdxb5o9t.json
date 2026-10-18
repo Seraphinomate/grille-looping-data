@@ -220,7 +220,7 @@
    "line": "l-drum-2",
    "kind": "PLAY",
    "slot": 2,
-   "s": 80,
+   "s": 64,
    "e": 192
   },
   {
@@ -253,7 +253,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T19:19:36.096Z",
+ "modifiedAt": "2026-10-18T19:19:39.313Z",
  "appliedAt": null,
  "parts": [
   {
