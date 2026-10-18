@@ -139,6 +139,14 @@
    "slot": 2,
    "s": 128,
    "e": 144
+  },
+  {
+   "id": "2h3srnpluc9",
+   "line": "l-basse",
+   "kind": "REC",
+   "slot": 2,
+   "s": 128,
+   "e": 144
   }
  ],
  "texts": [
@@ -156,6 +164,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:37:54.569Z",
+ "modifiedAt": "2026-10-18T07:38:01.689Z",
  "appliedAt": null
 }
