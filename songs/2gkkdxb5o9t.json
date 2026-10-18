@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 376,
- "nBars": 72,
+ "nBars": 70,
  "sigs": [
   {
    "bar": 0,
@@ -94,14 +94,6 @@
    "e": 256
   },
   {
-   "id": "wig5dkddeep",
-   "line": "l-nord-1",
-   "kind": "PLAY",
-   "slot": 1,
-   "s": 256,
-   "e": 288
-  },
-  {
    "id": "cd6m3b7xu7q",
    "line": "l-drum-1",
    "kind": "PLAY",
@@ -167,7 +159,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:42:53.479Z",
+ "modifiedAt": "2026-10-18T18:42:56.734Z",
  "appliedAt": null,
  "parts": [
   {
