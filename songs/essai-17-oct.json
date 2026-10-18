@@ -99,6 +99,14 @@
    "slot": 2,
    "s": 96,
    "e": 112
+  },
+  {
+   "id": "dz3g8m7tvz3",
+   "line": "l-nord-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 60,
+   "e": 64
   }
  ],
  "texts": [
@@ -116,6 +124,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:20:30.537Z",
+ "modifiedAt": "2026-10-18T07:20:57.375Z",
  "appliedAt": null
 }
