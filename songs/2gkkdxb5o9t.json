@@ -159,7 +159,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:40:37.021Z",
+ "modifiedAt": "2026-10-18T18:41:46.095Z",
  "appliedAt": null,
  "parts": [
   {
@@ -176,6 +176,11 @@
    "id": "zdrepyc9hyo",
    "beat": 192,
    "name": "Solo"
+  },
+  {
+   "id": "wknui302f1r",
+   "beat": 224,
+   "name": "Couplet."
   }
  ]
 }
