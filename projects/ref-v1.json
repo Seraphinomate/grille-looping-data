@@ -100,12 +100,6 @@
    "source": ""
   },
   {
-   "id": "l-nord-live",
-   "name": "Nord live",
-   "type": "live",
-   "source": ""
-  },
-  {
    "id": "l-notes",
    "name": "Notes",
    "type": "text",
