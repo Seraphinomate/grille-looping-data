@@ -2,16 +2,16 @@
  "name": "Looping JO - REFERENCE V1",
  "lines": [
   {
-   "id": "l-voix-1",
-   "name": "Voix 1",
-   "type": "loop",
-   "source": "Micro"
-  },
-  {
    "id": "l-section",
    "name": "Voix live",
    "type": "live",
    "source": ""
+  },
+  {
+   "id": "l-voix-1",
+   "name": "Voix 1",
+   "type": "loop",
+   "source": "Micro"
   },
   {
    "id": "l-voix-2",
