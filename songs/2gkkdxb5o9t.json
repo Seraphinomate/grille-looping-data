@@ -37,14 +37,6 @@
    "e": 24
   },
   {
-   "id": "rz5td7tszlt",
-   "line": "l-voix-live",
-   "kind": "LIVE",
-   "slot": 0,
-   "s": 16,
-   "e": 40
-  },
-  {
    "id": "9p5cew6i4bo",
    "line": "l-nord-1",
    "kind": "PLAY",
@@ -95,6 +87,7 @@
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T10:10:08.031Z",
- "appliedAt": null
+ "modifiedAt": "2026-10-18T12:42:38.897Z",
+ "appliedAt": null,
+ "parts": []
 }
