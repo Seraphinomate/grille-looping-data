@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 320,
- "nBars": 28,
+ "nBars": 32,
  "sigs": [
   {
    "bar": 0,
@@ -123,6 +123,14 @@
    "slot": 1,
    "s": 96,
    "e": 112
+  },
+  {
+   "id": "il8btc8rpi0",
+   "line": "l-osmose-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 113,
+   "e": 128
   }
  ],
  "texts": [
@@ -140,6 +148,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:22:49.903Z",
+ "modifiedAt": "2026-10-18T07:23:55.608Z",
  "appliedAt": null
 }
