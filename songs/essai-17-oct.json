@@ -138,7 +138,7 @@
    "kind": "REC",
    "slot": 2,
    "s": 164,
-   "e": 180
+   "e": 196
   },
   {
    "id": "tmlsqyx252l",
@@ -164,6 +164,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:07:00.047Z",
+ "modifiedAt": "2026-10-18T08:07:03.800Z",
  "appliedAt": null
 }
