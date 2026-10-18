@@ -198,6 +198,14 @@
    "slot": 0,
    "s": 320,
    "e": 384
+  },
+  {
+   "id": "3g41g7lckpi",
+   "line": "l-osmose-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 224,
+   "e": 319
   }
  ],
  "texts": [
@@ -221,7 +229,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T19:04:07.736Z",
+ "modifiedAt": "2026-10-18T19:04:26.454Z",
  "appliedAt": null,
  "parts": [
   {
