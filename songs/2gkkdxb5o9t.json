@@ -59,11 +59,19 @@
    "slot": 1,
    "s": 96,
    "e": 160
+  },
+  {
+   "id": "qfanhvv7oj3",
+   "line": "l-section",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 65,
+   "e": 96
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T14:37:36.744Z",
+ "modifiedAt": "2026-10-18T14:37:48.399Z",
  "appliedAt": null,
  "parts": []
 }
