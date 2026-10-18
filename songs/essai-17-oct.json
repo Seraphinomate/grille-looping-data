@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 320,
- "nBars": 24,
+ "nBars": 28,
  "sigs": [
   {
    "bar": 0,
@@ -81,8 +81,8 @@
    "line": "l-nord-1",
    "kind": "PLAY",
    "slot": 1,
-   "s": 80,
-   "e": 96
+   "s": 96,
+   "e": 112
   },
   {
    "id": "re3nvroogpz",
@@ -132,6 +132,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:21:57.063Z",
+ "modifiedAt": "2026-10-18T07:22:01.285Z",
  "appliedAt": null
 }
