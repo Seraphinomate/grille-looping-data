@@ -108,6 +108,13 @@
    "name": "Notes",
    "type": "text",
    "source": ""
+  },
+  {
+   "id": "cqpeeoopiqr",
+   "name": "Nouvelle ligne",
+   "type": "loop",
+   "io": "audio",
+   "source": ""
   }
  ]
 }
