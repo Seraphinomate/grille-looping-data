@@ -1,0 +1,19 @@
+{
+ "name": "Nouveau morceau",
+ "project": "ref-v1",
+ "tempo": 110,
+ "startBar": 376,
+ "nBars": 1,
+ "sigs": [
+  {
+   "bar": 0,
+   "num": 4,
+   "den": 4
+  }
+ ],
+ "zones": [],
+ "texts": [],
+ "createdAt": "2026-10-18T09:50:52.001Z",
+ "modifiedAt": "2026-10-18T09:50:52.001Z",
+ "appliedAt": null
+}
