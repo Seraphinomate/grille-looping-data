@@ -93,14 +93,6 @@
    "e": 60
   },
   {
-   "id": "dz3g8m7tvz3",
-   "line": "l-nord-live",
-   "kind": "LIVE",
-   "slot": 0,
-   "s": 60,
-   "e": 64
-  },
-  {
    "id": "y0sa4gwsb9l",
    "line": "l-drum-2",
    "kind": "PLAY",
@@ -163,14 +155,6 @@
    "slot": 1,
    "s": 184,
    "e": 188
-  },
-  {
-   "id": "3hsaw94udz8",
-   "line": "l-nord-live",
-   "kind": "LIVE",
-   "slot": 0,
-   "s": 192,
-   "e": 208
   }
  ],
  "texts": [
@@ -188,6 +172,7 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:27:21.595Z",
- "appliedAt": null
+ "modifiedAt": "2026-10-18T12:42:41.681Z",
+ "appliedAt": null,
+ "parts": []
 }
