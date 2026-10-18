@@ -24,7 +24,7 @@
    "name": "Voix 4",
    "type": "loop",
    "io": "audio",
-   "source": ""
+   "source": "."
   },
   {
    "id": "iwi7vqsex27",
