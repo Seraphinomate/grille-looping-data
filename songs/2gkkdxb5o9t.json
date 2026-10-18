@@ -206,6 +206,14 @@
    "slot": 0,
    "s": 224,
    "e": 320
+  },
+  {
+   "id": "ejzzfnctxlh",
+   "line": "l-drum-2",
+   "kind": "REC",
+   "slot": 2,
+   "s": 64,
+   "e": 80
   }
  ],
  "texts": [
@@ -229,7 +237,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T19:04:31.673Z",
+ "modifiedAt": "2026-10-18T19:07:04.732Z",
  "appliedAt": null,
  "parts": [
   {
