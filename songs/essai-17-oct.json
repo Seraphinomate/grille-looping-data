@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 320,
- "nBars": 49,
+ "nBars": 48,
  "sigs": [
   {
    "bar": 0,
@@ -129,16 +129,16 @@
    "line": "l-nord-1",
    "kind": "PLAY",
    "slot": 2,
-   "s": 164,
-   "e": 196
+   "s": 160,
+   "e": 192
   },
   {
    "id": "2h3srnpluc9",
    "line": "l-basse",
    "kind": "REC",
    "slot": 2,
-   "s": 164,
-   "e": 196
+   "s": 160,
+   "e": 176
   },
   {
    "id": "tmlsqyx252l",
@@ -164,6 +164,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:07:03.800Z",
+ "modifiedAt": "2026-10-18T08:07:28.253Z",
  "appliedAt": null
 }
