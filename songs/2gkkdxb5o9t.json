@@ -142,6 +142,14 @@
    "slot": 1,
    "s": 224,
    "e": 276
+  },
+  {
+   "id": "5bopsdhm07o",
+   "line": "l-basse",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 224,
+   "e": 280
   }
  ],
  "texts": [
@@ -159,7 +167,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:43:43.634Z",
+ "modifiedAt": "2026-10-18T18:43:47.627Z",
  "appliedAt": null,
  "parts": [
   {
