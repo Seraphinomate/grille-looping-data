@@ -90,8 +90,8 @@
    "line": "l-nord-1",
    "kind": "PLAY",
    "slot": 1,
-   "s": 228,
-   "e": 260
+   "s": 224,
+   "e": 256
   },
   {
    "id": "wig5dkddeep",
@@ -153,7 +153,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:37:31.412Z",
+ "modifiedAt": "2026-10-18T18:37:57.834Z",
  "appliedAt": null,
  "parts": [
   {
