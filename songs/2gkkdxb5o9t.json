@@ -83,10 +83,18 @@
    "slot": 2,
    "s": 16,
    "e": 40
+  },
+  {
+   "id": "tnlza4t5mzp",
+   "line": "l-nord-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 24,
+   "e": 25
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T10:08:20.206Z",
+ "modifiedAt": "2026-10-18T10:09:30.085Z",
  "appliedAt": null
 }
