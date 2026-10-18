@@ -114,12 +114,12 @@
    "kind": "REC",
    "slot": 2,
    "s": 160,
-   "e": 192
+   "e": 176
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:12:57.463Z",
+ "modifiedAt": "2026-10-18T18:13:09.419Z",
  "appliedAt": null,
  "parts": [
   {
