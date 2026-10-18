@@ -112,7 +112,7 @@
   {
    "id": "cqpeeoopiqr",
    "name": "Nouvelle ligne",
-   "type": "loop",
+   "type": "live",
    "io": "audio",
    "source": ""
   }
