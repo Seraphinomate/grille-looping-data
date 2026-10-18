@@ -188,10 +188,16 @@
    "line": "l-notes",
    "beat": 225,
    "text": "Retour chord 2 normal"
+  },
+  {
+   "id": "8cbd9yvsqvm",
+   "line": "l-notes",
+   "beat": 376,
+   "text": "Chords 2 fade out sur 2 mesures"
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:50:59.653Z",
+ "modifiedAt": "2026-10-18T18:52:07.954Z",
  "appliedAt": null,
  "parts": [
   {
