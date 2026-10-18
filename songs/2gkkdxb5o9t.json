@@ -191,7 +191,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:47:59.284Z",
+ "modifiedAt": "2026-10-18T18:49:50.775Z",
  "appliedAt": null,
  "parts": [
   {
@@ -213,6 +213,11 @@
    "id": "wknui302f1r",
    "beat": 224,
    "name": "Couplet."
+  },
+  {
+   "id": "wpg1hvbtt13",
+   "beat": 288,
+   "name": "Refrain"
   }
  ]
 }
