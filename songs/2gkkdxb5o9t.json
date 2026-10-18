@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 376,
- "nBars": 96,
+ "nBars": 97,
  "sigs": [
   {
    "bar": 0,
@@ -229,7 +229,7 @@
    "kind": "PLAY",
    "slot": 2,
    "s": 196,
-   "e": 294
+   "e": 385
   }
  ],
  "texts": [
@@ -253,7 +253,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T19:07:44.798Z",
+ "modifiedAt": "2026-10-18T19:07:48.884Z",
  "appliedAt": null,
  "parts": [
   {
