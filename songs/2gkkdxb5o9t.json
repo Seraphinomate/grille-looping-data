@@ -75,10 +75,18 @@
    "slot": 2,
    "s": 12,
    "e": 16
+  },
+  {
+   "id": "1waxjzplnkg",
+   "line": "l-drum-2",
+   "kind": "PLAY",
+   "slot": 2,
+   "s": 16,
+   "e": 40
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T10:07:04.633Z",
+ "modifiedAt": "2026-10-18T10:07:10.864Z",
  "appliedAt": null
 }
