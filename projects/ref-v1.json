@@ -8,6 +8,12 @@
    "source": ""
   },
   {
+   "id": "l-voix-2",
+   "name": "Voix 2",
+   "type": "loop",
+   "source": "Micro"
+  },
+  {
    "id": "iwi7vqsex27",
    "name": "Osmose live",
    "type": "live",
@@ -19,12 +25,6 @@
    "name": "Nord live",
    "type": "live",
    "source": ""
-  },
-  {
-   "id": "l-voix-2",
-   "name": "Voix 2",
-   "type": "loop",
-   "source": "Micro"
   },
   {
    "id": "l-voix-4",
