@@ -197,7 +197,7 @@
    "kind": "LIVE",
    "slot": 0,
    "s": 320,
-   "e": 342
+   "e": 352
   }
  ],
  "texts": [
@@ -221,7 +221,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:58:16.556Z",
+ "modifiedAt": "2026-10-18T18:58:30.255Z",
  "appliedAt": null,
  "parts": [
   {
