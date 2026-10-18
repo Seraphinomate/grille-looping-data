@@ -99,11 +99,19 @@
    "slot": 1,
    "s": 260,
    "e": 292
+  },
+  {
+   "id": "cd6m3b7xu7q",
+   "line": "l-drum-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 160,
+   "e": 193
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:12:22.227Z",
+ "modifiedAt": "2026-10-18T18:12:32.822Z",
  "appliedAt": null,
  "parts": [
   {
