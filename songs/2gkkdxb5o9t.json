@@ -133,9 +133,16 @@
    "e": 228
   }
  ],
- "texts": [],
+ "texts": [
+  {
+   "id": "9qss6m26ui1",
+   "line": "l-notes",
+   "beat": 160,
+   "text": "Chords 2 x 2"
+  }
+ ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:13:59.153Z",
+ "modifiedAt": "2026-10-18T18:14:53.161Z",
  "appliedAt": null,
  "parts": [
   {
