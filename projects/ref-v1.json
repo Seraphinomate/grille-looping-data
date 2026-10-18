@@ -20,6 +20,13 @@
    "source": "Micro"
   },
   {
+   "id": "cqpeeoopiqr",
+   "name": "Voix 4",
+   "type": "loop",
+   "io": "audio",
+   "source": ""
+  },
+  {
    "id": "iwi7vqsex27",
    "name": "Osmose live",
    "type": "live",
@@ -30,13 +37,6 @@
    "id": "l-osmose-live",
    "name": "Nord live",
    "type": "live",
-   "source": ""
-  },
-  {
-   "id": "cqpeeoopiqr",
-   "name": "Voix 4",
-   "type": "loop",
-   "io": "audio",
    "source": ""
   },
   {
