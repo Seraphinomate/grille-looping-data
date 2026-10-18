@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 376,
- "nBars": 64,
+ "nBars": 72,
  "sigs": [
   {
    "bar": 0,
@@ -91,11 +91,19 @@
    "slot": 1,
    "s": 224,
    "e": 256
+  },
+  {
+   "id": "wig5dkddeep",
+   "line": "l-nord-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 256,
+   "e": 288
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:08:52.807Z",
+ "modifiedAt": "2026-10-18T18:09:05.713Z",
  "appliedAt": null,
  "parts": []
 }
