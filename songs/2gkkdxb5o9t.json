@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 376,
- "nBars": 40,
+ "nBars": 44,
  "sigs": [
   {
    "bar": 0,
@@ -67,11 +67,19 @@
    "slot": 0,
    "s": 64,
    "e": 160
+  },
+  {
+   "id": "ega112scytp",
+   "line": "l-nord-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 160,
+   "e": 176
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:07:20.183Z",
+ "modifiedAt": "2026-10-18T18:07:58.861Z",
  "appliedAt": null,
  "parts": []
 }
