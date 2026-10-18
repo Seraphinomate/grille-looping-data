@@ -103,13 +103,18 @@
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:10:25.414Z",
+ "modifiedAt": "2026-10-18T18:10:56.147Z",
  "appliedAt": null,
  "parts": [
   {
    "id": "cno1wsv43wm",
    "beat": 0,
    "name": "Couplet"
+  },
+  {
+   "id": "yc988d4crmb",
+   "beat": 160,
+   "name": "Refrain"
   }
  ]
 }
