@@ -74,7 +74,7 @@
    "kind": "REC",
    "slot": 2,
    "s": 64,
-   "e": 80
+   "e": 96
   },
   {
    "id": "odw7hzhaz1g",
@@ -172,6 +172,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:59:50.006Z",
+ "modifiedAt": "2026-10-18T08:00:33.194Z",
  "appliedAt": null
 }
