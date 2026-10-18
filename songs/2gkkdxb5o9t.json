@@ -142,6 +142,14 @@
    "s": 192,
    "e": 220,
    "mute": 1
+  },
+  {
+   "id": "ofl8mlrcita",
+   "line": "l-drum-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 224,
+   "e": 252
   }
  ],
  "texts": [
@@ -159,7 +167,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:42:31.917Z",
+ "modifiedAt": "2026-10-18T18:42:37.631Z",
  "appliedAt": null,
  "parts": [
   {
