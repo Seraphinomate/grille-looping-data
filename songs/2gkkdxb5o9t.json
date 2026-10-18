@@ -131,6 +131,14 @@
    "slot": 2,
    "s": 196,
    "e": 228
+  },
+  {
+   "id": "780yycuygzw",
+   "line": "l-drum-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 196,
+   "e": 224
   }
  ],
  "texts": [
@@ -142,7 +150,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:16:24.052Z",
+ "modifiedAt": "2026-10-18T18:16:55.628Z",
  "appliedAt": null,
  "parts": [
   {
