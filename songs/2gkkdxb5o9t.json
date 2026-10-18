@@ -33,8 +33,8 @@
    "line": "l-basse",
    "kind": "REC",
    "slot": 1,
-   "s": 96,
-   "e": 128
+   "s": 64,
+   "e": 96
   },
   {
    "id": "9p5cew6i4bo",
@@ -57,13 +57,13 @@
    "line": "l-basse",
    "kind": "PLAY",
    "slot": 1,
-   "s": 128,
-   "e": 160
+   "s": 96,
+   "e": 128
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T14:37:12.812Z",
+ "modifiedAt": "2026-10-18T14:37:32.691Z",
  "appliedAt": null,
  "parts": []
 }
