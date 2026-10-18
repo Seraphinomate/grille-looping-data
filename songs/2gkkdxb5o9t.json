@@ -25,12 +25,20 @@
    "line": "l-drum-1",
    "kind": "REC",
    "slot": 1,
-   "s": 8,
+   "s": 12,
    "e": 16
+  },
+  {
+   "id": "ytxnn2ux0bj",
+   "line": "l-drum-1",
+   "kind": "REC",
+   "slot": 2,
+   "s": 8,
+   "e": 12
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T09:54:20.849Z",
+ "modifiedAt": "2026-10-18T09:55:00.895Z",
  "appliedAt": null
 }
