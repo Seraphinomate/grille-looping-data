@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 376,
- "nBars": 86,
+ "nBars": 88,
  "sigs": [
   {
    "bar": 0,
@@ -91,7 +91,7 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 224,
-   "e": 280
+   "e": 288
   },
   {
    "id": "cd6m3b7xu7q",
@@ -141,7 +141,7 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 224,
-   "e": 276
+   "e": 284
   },
   {
    "id": "5bopsdhm07o",
@@ -156,8 +156,8 @@
    "line": "l-nord-1",
    "kind": "PLAY",
    "slot": 1,
-   "s": 280,
-   "e": 344
+   "s": 288,
+   "e": 352
   },
   {
    "id": "hm1z973rl1o",
@@ -172,8 +172,8 @@
    "line": "l-drum-1",
    "kind": "PLAY",
    "slot": 1,
-   "s": 280,
-   "e": 312
+   "s": 288,
+   "e": 320
   }
  ],
  "texts": [
@@ -191,7 +191,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:44:35.312Z",
+ "modifiedAt": "2026-10-18T18:47:59.284Z",
  "appliedAt": null,
  "parts": [
   {
