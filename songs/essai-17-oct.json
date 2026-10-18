@@ -81,8 +81,8 @@
    "line": "l-nord-1",
    "kind": "PLAY",
    "slot": 1,
-   "s": 112,
-   "e": 144
+   "s": 96,
+   "e": 128
   },
   {
    "id": "re3nvroogpz",
@@ -172,6 +172,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:00:33.194Z",
+ "modifiedAt": "2026-10-18T08:01:19.855Z",
  "appliedAt": null
 }
