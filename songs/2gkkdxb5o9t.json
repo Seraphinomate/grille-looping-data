@@ -59,19 +59,11 @@
    "slot": 1,
    "s": 24,
    "e": 39
-  },
-  {
-   "id": "nqm74xm8xrd",
-   "line": "l-nord-2",
-   "kind": "REC",
-   "slot": 2,
-   "s": 24,
-   "e": 32
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T14:36:34.842Z",
+ "modifiedAt": "2026-10-18T14:36:43.374Z",
  "appliedAt": null,
  "parts": []
 }
