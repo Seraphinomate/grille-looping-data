@@ -165,7 +165,7 @@
    "kind": "PLAY",
    "slot": 2,
    "s": 280,
-   "e": 312
+   "e": 352
   },
   {
    "id": "6jl6x3hio8x",
@@ -191,7 +191,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:50:39.307Z",
+ "modifiedAt": "2026-10-18T18:50:42.192Z",
  "appliedAt": null,
  "parts": [
   {
