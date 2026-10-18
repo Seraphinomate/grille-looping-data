@@ -131,7 +131,8 @@
    "kind": "PLAY",
    "slot": 2,
    "s": 192,
-   "e": 220
+   "e": 220,
+   "mute": 1
   },
   {
    "id": "780yycuygzw",
@@ -139,7 +140,8 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 192,
-   "e": 216
+   "e": 216,
+   "mute": 1
   }
  ],
  "texts": [
@@ -151,7 +153,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:36:46.006Z",
+ "modifiedAt": "2026-10-18T18:36:51.619Z",
  "appliedAt": null,
  "parts": [
   {
