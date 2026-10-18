@@ -221,7 +221,7 @@
    "kind": "PLAY",
    "slot": 2,
    "s": 80,
-   "e": 136
+   "e": 191
   }
  ],
  "texts": [
@@ -245,7 +245,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T19:07:16.499Z",
+ "modifiedAt": "2026-10-18T19:07:23.653Z",
  "appliedAt": null,
  "parts": [
   {
