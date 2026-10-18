@@ -115,11 +115,19 @@
    "slot": 2,
    "s": 160,
    "e": 192
+  },
+  {
+   "id": "79l60jb58eo",
+   "line": "l-granulator",
+   "kind": "REC",
+   "slot": 1,
+   "s": 216,
+   "e": 220
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:12:48.607Z",
+ "modifiedAt": "2026-10-18T18:12:51.217Z",
  "appliedAt": null,
  "parts": [
   {
