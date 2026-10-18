@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 376,
- "nBars": 98,
+ "nBars": 96,
  "sigs": [
   {
    "bar": 0,
@@ -197,7 +197,7 @@
    "kind": "LIVE",
    "slot": 0,
    "s": 320,
-   "e": 392
+   "e": 384
   }
  ],
  "texts": [
@@ -221,7 +221,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T19:04:05.703Z",
+ "modifiedAt": "2026-10-18T19:04:07.736Z",
  "appliedAt": null,
  "parts": [
   {
