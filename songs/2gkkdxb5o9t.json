@@ -212,8 +212,8 @@
    "line": "l-drum-2",
    "kind": "REC",
    "slot": 2,
-   "s": 64,
-   "e": 80
+   "s": 48,
+   "e": 64
   },
   {
    "id": "g3sji1qf7wz",
@@ -253,7 +253,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T19:07:51.452Z",
+ "modifiedAt": "2026-10-18T19:19:36.096Z",
  "appliedAt": null,
  "parts": [
   {
