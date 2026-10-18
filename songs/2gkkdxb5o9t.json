@@ -190,6 +190,14 @@
    "slot": 0,
    "s": 192,
    "e": 224
+  },
+  {
+   "id": "c8vj6608nak",
+   "line": "iwi7vqsex27",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 320,
+   "e": 342
   }
  ],
  "texts": [
@@ -213,7 +221,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:58:05.090Z",
+ "modifiedAt": "2026-10-18T18:58:16.556Z",
  "appliedAt": null,
  "parts": [
   {
