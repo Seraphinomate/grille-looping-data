@@ -42,7 +42,7 @@
    "kind": "LIVE",
    "slot": 0,
    "s": 16,
-   "e": 24
+   "e": 32
   },
   {
    "id": "9p5cew6i4bo",
@@ -71,6 +71,6 @@
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T10:04:37.838Z",
+ "modifiedAt": "2026-10-18T10:04:46.893Z",
  "appliedAt": null
 }
