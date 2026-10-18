@@ -109,14 +109,6 @@
    "e": 144
   },
   {
-   "id": "t1n60ctuvmp",
-   "line": "l-nord-live",
-   "kind": "LIVE",
-   "slot": 0,
-   "s": 96,
-   "e": 112
-  },
-  {
    "id": "7rtjya2qasv",
    "line": "l-drum-1",
    "kind": "PLAY",
@@ -172,6 +164,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:01:19.855Z",
+ "modifiedAt": "2026-10-18T08:01:23.739Z",
  "appliedAt": null
 }
