@@ -2,6 +2,13 @@
  "name": "Looping JO - REFERENCE V1",
  "lines": [
   {
+   "id": "iwi7vqsex27",
+   "name": "Nouvelle boucle",
+   "type": "loop",
+   "io": "audio",
+   "source": ""
+  },
+  {
    "id": "l-section",
    "name": "Voix live",
    "type": "live",
