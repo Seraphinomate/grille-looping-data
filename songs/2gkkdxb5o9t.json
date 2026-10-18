@@ -150,10 +150,16 @@
    "line": "l-notes",
    "beat": 160,
    "text": "Chords 2 x 2"
+  },
+  {
+   "id": "zgm7qmra50m",
+   "line": "l-notes",
+   "beat": 225,
+   "text": "Retour chord 2 normal"
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:39:13.091Z",
+ "modifiedAt": "2026-10-18T18:39:59.782Z",
  "appliedAt": null,
  "parts": [
   {
