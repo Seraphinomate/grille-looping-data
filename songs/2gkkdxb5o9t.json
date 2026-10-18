@@ -43,10 +43,26 @@
    "slot": 0,
    "s": 16,
    "e": 24
+  },
+  {
+   "id": "9p5cew6i4bo",
+   "line": "l-nord-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 8,
+   "e": 24
+  },
+  {
+   "id": "7l60uxji5sq",
+   "line": "l-drum-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 16,
+   "e": 24
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T10:03:33.185Z",
+ "modifiedAt": "2026-10-18T10:04:27.866Z",
  "appliedAt": null
 }
