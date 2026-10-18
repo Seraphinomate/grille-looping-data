@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 320,
- "nBars": 48,
+ "nBars": 52,
  "sigs": [
   {
    "bar": 0,
@@ -163,6 +163,14 @@
    "slot": 1,
    "s": 184,
    "e": 188
+  },
+  {
+   "id": "3hsaw94udz8",
+   "line": "l-nord-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 192,
+   "e": 208
   }
  ],
  "texts": [
@@ -180,6 +188,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:08:25.779Z",
+ "modifiedAt": "2026-10-18T08:08:46.724Z",
  "appliedAt": null
 }
