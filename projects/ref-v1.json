@@ -27,6 +27,13 @@
    "source": "Micro"
   },
   {
+   "id": "cqpeeoopiqr",
+   "name": "Nouvelle ligne",
+   "type": "live",
+   "io": "audio",
+   "source": ""
+  },
+  {
    "id": "l-nord-1",
    "name": "Nord 1",
    "type": "loop",
@@ -114,13 +121,6 @@
    "id": "l-guide",
    "name": "GUIDE",
    "type": "text",
-   "source": ""
-  },
-  {
-   "id": "cqpeeoopiqr",
-   "name": "Nouvelle ligne",
-   "type": "live",
-   "io": "audio",
    "source": ""
   }
  ]
