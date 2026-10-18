@@ -34,6 +34,12 @@
    "source": ""
   },
   {
+   "id": "l-o1",
+   "name": "Osmose",
+   "type": "loop",
+   "source": "Osmose"
+  },
+  {
    "id": "l-osmose-live",
    "name": "Nord live",
    "type": "live",
@@ -50,12 +56,6 @@
    "name": "Nord 2",
    "type": "loop",
    "source": "Nord"
-  },
-  {
-   "id": "l-o1",
-   "name": "O1",
-   "type": "loop",
-   "source": "Osmose"
   },
   {
    "id": "l-drum-1",
