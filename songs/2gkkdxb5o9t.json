@@ -107,11 +107,19 @@
    "slot": 1,
    "s": 160,
    "e": 193
+  },
+  {
+   "id": "6rds3s9i6e7",
+   "line": "l-basse",
+   "kind": "REC",
+   "slot": 2,
+   "s": 160,
+   "e": 192
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:12:32.822Z",
+ "modifiedAt": "2026-10-18T18:12:48.607Z",
  "appliedAt": null,
  "parts": [
   {
