@@ -155,6 +155,14 @@
    "slot": 1,
    "s": 176,
    "e": 188
+  },
+  {
+   "id": "uahoificxtf",
+   "line": "l-drum-1",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 184,
+   "e": 188
   }
  ],
  "texts": [
@@ -172,6 +180,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:08:16.491Z",
+ "modifiedAt": "2026-10-18T08:08:25.779Z",
  "appliedAt": null
 }
