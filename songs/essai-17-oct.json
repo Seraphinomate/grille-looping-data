@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 320,
- "nBars": 21,
+ "nBars": 22,
  "sigs": [
   {
    "bar": 0,
@@ -34,7 +34,7 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 24,
-   "e": 84
+   "e": 88
   },
   {
    "id": "z5",
@@ -50,15 +50,15 @@
    "kind": "REC",
    "slot": 1,
    "s": 32,
-   "e": 52
+   "e": 56
   },
   {
    "id": "z8",
    "line": "l-basse",
    "kind": "PLAY",
    "slot": 1,
-   "s": 52,
-   "e": 84
+   "s": 56,
+   "e": 88
   },
   {
    "id": "snsqd5gv60j",
@@ -74,15 +74,15 @@
    "kind": "REC",
    "slot": 2,
    "s": 32,
-   "e": 52
+   "e": 56
   },
   {
    "id": "odw7hzhaz1g",
    "line": "l-nord-1",
    "kind": "PLAY",
    "slot": 1,
-   "s": 52,
-   "e": 68
+   "s": 56,
+   "e": 72
   },
   {
    "id": "re3nvroogpz",
@@ -90,23 +90,23 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 32,
-   "e": 52
+   "e": 56
   },
   {
    "id": "qrfre68mqjf",
    "line": "l-drum-2",
    "kind": "PLAY",
    "slot": 1,
-   "s": 68,
-   "e": 84
+   "s": 72,
+   "e": 88
   },
   {
    "id": "n41gk7vgyx0",
    "line": "l-nord-1",
    "kind": "PLAY",
    "slot": 2,
-   "s": 68,
-   "e": 84
+   "s": 72,
+   "e": 88
   }
  ],
  "texts": [
@@ -119,11 +119,11 @@
   {
    "id": "t2",
    "line": "l-section",
-   "beat": 52,
+   "beat": 56,
    "text": "Tout tourne"
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:13:46.676Z",
+ "modifiedAt": "2026-10-18T07:13:52.266Z",
  "appliedAt": null
 }
