@@ -142,7 +142,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:15:38.341Z",
+ "modifiedAt": "2026-10-18T18:16:24.052Z",
  "appliedAt": null,
  "parts": [
   {
@@ -154,6 +154,11 @@
    "id": "yc988d4crmb",
    "beat": 160,
    "name": "Refrain"
+  },
+  {
+   "id": "occ320hpsms",
+   "beat": 196,
+   "name": "Solo"
   }
  ]
 }
