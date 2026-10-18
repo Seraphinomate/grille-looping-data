@@ -98,14 +98,14 @@
    "source": ""
   },
   {
-   "id": "l-guide",
-   "name": "GUIDE",
+   "id": "l-notes",
+   "name": "Notes",
    "type": "text",
    "source": ""
   },
   {
-   "id": "l-notes",
-   "name": "Notes",
+   "id": "l-guide",
+   "name": "GUIDE",
    "type": "text",
    "source": ""
   },
