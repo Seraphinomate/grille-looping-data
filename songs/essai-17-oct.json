@@ -113,8 +113,8 @@
    "line": "l-drum-1",
    "kind": "PLAY",
    "slot": 1,
-   "s": 112,
-   "e": 144
+   "s": 96,
+   "e": 128
   },
   {
    "id": "ge4tweppwb8",
@@ -164,6 +164,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:02:02.262Z",
+ "modifiedAt": "2026-10-18T08:02:27.685Z",
  "appliedAt": null
 }
