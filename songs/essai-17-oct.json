@@ -115,6 +115,14 @@
    "slot": 1,
    "s": 64,
    "e": 81
+  },
+  {
+   "id": "t1n60ctuvmp",
+   "line": "l-nord-live",
+   "kind": "LIVE",
+   "slot": 0,
+   "s": 80,
+   "e": 96
   }
  ],
  "texts": [
@@ -132,6 +140,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:21:17.193Z",
+ "modifiedAt": "2026-10-18T07:21:43.585Z",
  "appliedAt": null
 }
