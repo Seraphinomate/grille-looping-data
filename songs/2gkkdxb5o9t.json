@@ -26,7 +26,7 @@
    "kind": "REC",
    "slot": 1,
    "s": 32,
-   "e": 40
+   "e": 64
   },
   {
    "id": "s0d6f2ggb0g",
@@ -71,7 +71,7 @@
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T14:36:18.458Z",
+ "modifiedAt": "2026-10-18T14:36:27.620Z",
  "appliedAt": null,
  "parts": []
 }
