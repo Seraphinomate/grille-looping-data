@@ -106,12 +106,6 @@
    "source": ""
   },
   {
-   "id": "l-voix-live",
-   "name": "Voix live",
-   "type": "live",
-   "source": ""
-  },
-  {
    "id": "l-notes",
    "name": "Notes",
    "type": "text",
