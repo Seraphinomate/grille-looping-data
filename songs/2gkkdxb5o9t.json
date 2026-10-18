@@ -181,7 +181,7 @@
    "kind": "LIVE",
    "slot": 0,
    "s": 224,
-   "e": 304
+   "e": 320
   },
   {
    "id": "ks9mmewd0p9",
@@ -213,7 +213,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:58:00.130Z",
+ "modifiedAt": "2026-10-18T18:58:05.090Z",
  "appliedAt": null,
  "parts": [
   {
