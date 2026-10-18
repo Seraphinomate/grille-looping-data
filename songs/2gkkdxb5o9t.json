@@ -173,14 +173,6 @@
    "kind": "PLAY",
    "slot": 1,
    "s": 288,
-   "e": 348
-  },
-  {
-   "id": "af98i83nf5s",
-   "line": "l-drum-1",
-   "kind": "PLAY",
-   "slot": 1,
-   "s": 352,
    "e": 384
   }
  ],
@@ -205,7 +197,7 @@
   }
  ],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:55:05.499Z",
+ "modifiedAt": "2026-10-18T18:55:41.393Z",
  "appliedAt": null,
  "parts": [
   {
