@@ -123,11 +123,19 @@
    "slot": 2,
    "s": 176,
    "e": 192
+  },
+  {
+   "id": "bhtfj72eott",
+   "line": "l-basse",
+   "kind": "PLAY",
+   "slot": 2,
+   "s": 196,
+   "e": 228
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T18:13:52.216Z",
+ "modifiedAt": "2026-10-18T18:13:59.153Z",
  "appliedAt": null,
  "parts": [
   {
