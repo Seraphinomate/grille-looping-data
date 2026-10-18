@@ -147,6 +147,14 @@
    "slot": 2,
    "s": 128,
    "e": 144
+  },
+  {
+   "id": "tmlsqyx252l",
+   "line": "l-basse",
+   "kind": "PLAY",
+   "slot": 1,
+   "s": 96,
+   "e": 128
   }
  ],
  "texts": [
@@ -164,6 +172,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:38:01.689Z",
+ "modifiedAt": "2026-10-18T07:38:15.597Z",
  "appliedAt": null
 }
