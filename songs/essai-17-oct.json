@@ -93,14 +93,6 @@
    "e": 80
   },
   {
-   "id": "qrfre68mqjf",
-   "line": "l-drum-2",
-   "kind": "PLAY",
-   "slot": 1,
-   "s": 96,
-   "e": 112
-  },
-  {
    "id": "n41gk7vgyx0",
    "line": "l-nord-1",
    "kind": "PLAY",
@@ -124,6 +116,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T07:19:34.547Z",
+ "modifiedAt": "2026-10-18T07:19:38.807Z",
  "appliedAt": null
 }
