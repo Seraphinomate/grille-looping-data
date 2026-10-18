@@ -3,7 +3,7 @@
  "project": "ref-v1",
  "tempo": 110,
  "startBar": 320,
- "nBars": 47,
+ "nBars": 45,
  "sigs": [
   {
    "bar": 0,
@@ -137,8 +137,8 @@
    "line": "l-basse",
    "kind": "REC",
    "slot": 2,
-   "s": 172,
-   "e": 188
+   "s": 164,
+   "e": 180
   },
   {
    "id": "tmlsqyx252l",
@@ -164,6 +164,6 @@
   }
  ],
  "createdAt": "2026-10-17T20:00:00Z",
- "modifiedAt": "2026-10-18T08:06:17.707Z",
+ "modifiedAt": "2026-10-18T08:06:28.719Z",
  "appliedAt": null
 }
