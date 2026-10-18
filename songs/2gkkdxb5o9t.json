@@ -66,12 +66,12 @@
    "kind": "LIVE",
    "slot": 0,
    "s": 64,
-   "e": 96
+   "e": 160
   }
  ],
  "texts": [],
  "createdAt": "2026-10-18T09:50:52.001Z",
- "modifiedAt": "2026-10-18T14:37:56.913Z",
+ "modifiedAt": "2026-10-18T14:38:03.101Z",
  "appliedAt": null,
  "parts": []
 }
